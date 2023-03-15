@@ -260,9 +260,11 @@ a {
     }
 }
 .start__subtitle {
+    
     padding-bottom:40px;
     max-width:405px;
     color: #FFFFFF;
+    color: #000;
 }
 
 .start__button {
@@ -535,9 +537,10 @@ a {
 .burger__body {
     
     
+    
     position: fixed;
     transform: translate(-100%, 0);
-    height: 100vh;
+    
     bottom: 0;
     
     padding-top:10px;
